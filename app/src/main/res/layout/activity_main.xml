@@ -22,7 +22,7 @@
         android:layout_gravity="center"
         android:layout_marginTop="5dp"
         android:onClick="btnWClicked"
-        android:text="결과보기" />
+        android:text="소통방으로 이동" />
 
     <HorizontalScrollView
         android:id="@+id/horScrollView"
